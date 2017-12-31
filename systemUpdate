@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "System update script.\nroot privileges are nedeed"
