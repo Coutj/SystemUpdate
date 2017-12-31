@@ -1,2 +1,2 @@
 all:
-	sudo cp systemUpdate /usr/local/bin
+	sudo cp -i systemUpdate /usr/local/bin
