@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "System update script.\nroot privileges are nedeed"
+echo -e "System update script for Arch linux.\nroot privileges are nedeed"
+sudo pacman -Suy
